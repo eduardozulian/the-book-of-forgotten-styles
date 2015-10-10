@@ -1,5 +1,8 @@
 # The Book of Forgotten Styles
 
+### Post, Pages and Custom Post Types
+* `.post-edit-link`
+
 ### Archive, Blog and Search
 * Pagination links
 

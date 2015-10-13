@@ -1,4 +1,4 @@
-# The Book of Forgotten Styles
+# The Book of Forgotten Styles: a small list of WordPress generated classes that we tend to shamefully ignore
 
 ## Post, Pages and Custom Post Types
 * `.post-edit-link`

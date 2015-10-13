@@ -14,6 +14,8 @@
 * `.logged-in-as`
 * `.comment-notes`
   * `#email-notes` 
+* `.form-allowed-tags`: The allowed HTML tags that appear right before the Submit button. Uses [`comment_form()`](https://developer.wordpress.org/reference/functions/comment_form/)
+
 
 ### Comment list
 * `.bypostauthor`: A comment by the post author

@@ -14,3 +14,8 @@
 * `.logged-in-as`
 * `.comment-notes`
   * `#email-notes` 
+
+#### Comment list
+* `.bypostauthor`: A comment by the post author
+* `.byuser`: A comment by a logged user
+* `.comment-author-admin`: A comment by one of the logged admins

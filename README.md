@@ -13,6 +13,10 @@
 * Pagination links
 * `.logged-in-as`
 * `.must-log-in`: When the user has to login in to comment
+* `.reply`: The wrapper `<div>`
+  * `.comment-reply-link`: The reply link
+  * `.comment-reply-login`: When the user has to login in to comment
+
 * `.comment-notes`
   * `#email-notes` 
 * `.form-allowed-tags`: The allowed HTML tags that appear right before the Submit button. Uses [`comment_form()`](https://developer.wordpress.org/reference/functions/comment_form/)

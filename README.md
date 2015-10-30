@@ -1,6 +1,7 @@
 # The Book of Forgotten Styles: a small list of WordPress generated classes that we tend to shamefully ignore
 
 ## Post, Pages and Custom Post Types
+* `.more-link`: The _Continue reading_ link
 * `.post-edit-link`
 
 ## Archive, Blog and Search
